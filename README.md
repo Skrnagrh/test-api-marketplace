@@ -1,9 +1,3 @@
-Oke, noted!  
-Kalau kamu pakai **Laravel 12**, README tadi tinggal **sedikit aku revisi** supaya lebih akurat.
-
-Ini versi revisinya:
-
-```markdown
 # Test API Marketplace
 
 Project ini adalah contoh aplikasi sederhana menggunakan Laravel 12 untuk melakukan pencarian produk dari API marketplace eksternal (dummyjson.com).
@@ -67,7 +61,7 @@ Project ini adalah contoh aplikasi sederhana menggunakan Laravel 12 untuk melaku
   ```
 
 ## Pratinjau
-| <img src="/public/tampilan.jpeg" alt="Tampilan" width="100%"> |
+<img src="/public/tampilan.jpeg" alt="Tampilan" width="100%">
 
 ## License
 
